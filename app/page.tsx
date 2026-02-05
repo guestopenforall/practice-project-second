@@ -10,8 +10,8 @@ const MainPage = () => {
     <div>
       <Header />
     </div>
-    <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gray-100 border border-red-600 rounded-lg">
-      <h1 className="text-3xl font-bold shadow-lg border rounded-lg p-2 mb-2"> Fill The Register Form</h1>
+    <div className="flex flex-col items-center justify-center min-h-screen py-2  border rounded-lg">
+      <h1 className="text-2xl font-lg  mb-3"> Fill Credencials</h1>
       <RegisterForm />
     </div>
     <Footer />
